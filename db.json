@@ -1,31 +1,172 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+  {
+    "id": 1,
+    "name": "Robin Lehner",
+    "position": "Goaltender",
+    "age": "28",
+    "birthplace": "Gothenburg, SWE",
+    "gamesPlayed": "265",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475215.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Corey Crawford",
+    "position": "Goaltender",
+    "age": "34",
+    "birthplace": "Montreal, QC, CAN",
+    "gamesPlayed": "448",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470645.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Collin Delia",
+    "position": "Goaltender",
+    "age": "25",
+    "birthplace": "Rancho Cucamonga, CA, USA",
+    "gamesPlayed": "18",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8480420.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Brent Seabrook",
+    "position": "Defenseman",
+    "age": "34",
+    "birthplace": "Richmond, BC, CAN",
+    "gamesPlayed": "1,082",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470607.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Connor Murphy",
+    "position": "Delia",
+    "age": "26",
+    "birthplace": "Dublin, OH, USA",
+    "gamesPlayed": "386",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8476473.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Olli Maatta",
+    "position": "Defenseman",
+    "age": "25",
+    "birthplace": "Jyväskylä, FIN",
+    "gamesPlayed": "362",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8476874.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Duncan Keith",
+    "position": "Defenseman",
+    "age": "36",
+    "birthplace": "Winnipeg, MB, CAN",
+    "gamesPlayed": "1,077",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470281.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Erik Gustafsson",
+    "position": "Defenseman",
+    "age": "27",
+    "birthplace": "Nynashamn, SWE",
+    "gamesPlayed": "155",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8476979.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nicolas Beaudin",
+    "position": "Defenseman",
+    "age": "19",
+    "birthplace": "Chateauguay, QC, CAN",
+    "gamesPlayed": "0",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8480814.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Jonathan Toews",
+    "position": "Center",
+    "age": "31",
+    "birthplace": "Winnipeg, MB, CAN",
+    "gamesPlayed": "873",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8473604.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dylan Strome",
+    "position": "Center",
+    "age": "22",
+    "birthplace": "Mississauga, ON, CAN",
+    "gamesPlayed": "106",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8478440.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kirby Dach",
+    "position": "Center",
+    "age": "18",
+    "birthplace": "Fort Saskatchewan, AB, CAN",
+    "gamesPlayed": "0",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8481523.jpg"
+  },
+   {
+    "id": 13,
+    "name": "Drake Caggiula",
+    "position": "Center",
+    "age": "25",
+    "birthplace": "Pickering, ON, CAN",
+    "gamesPlayed": "182",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8479465.jpg"
+  },
+   {
+    "id": 14,
+    "name": "Alex DeBrincat",
+    "position": "Left Wing",
+    "age": "21",
+    "birthplace": "Farmington Hills, MI, USA",
+    "gamesPlayed": "164",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8479337.jpg"
+  },
+  {
+    "id": 15,
+    "name": "MacKenzie Entwistle",
+    "position": "Right Wing",
+    "age": "20",
+    "birthplace": "Georgetown, ON, CAN",
+    "gamesPlayed": "0",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8480025.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Alexandre Fortin",
+    "position": "Left Wing",
+    "age": "22",
+    "birthplace": "Blainville, QC, CAN",
+    "gamesPlayed": "24",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8479657.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Patrick Kane",
+    "position": "Right Wing",
+    "age": "30",
+    "birthplace": "Buffalo, NY, USA",
+    "gamesPlayed": "903",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8474141.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Dominik Kubalik",
+    "position": "Left Wing",
+    "age": "24",
+    "birthplace": "Plzen, CZE",
+    "gamesPlayed": "0",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8477330.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Andrew Shaw",
+    "position": "Right Wing",
+    "age": "28",
+    "birthplace": "Belleville, ON, CAN",
+    "gamesPlayed": "504",
+    "picture": "https://nhl.bamcontent.com/images/headshots/current/168x168/8476381.jpg"
+  },
